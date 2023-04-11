@@ -1,0 +1,20 @@
+
+* { 
+    background-color: bisque;
+    color: brown;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+.title {
+    background-color: brown;
+    color: bisque;   
+}
+li {
+    text-align: left;
+}
+p {
+    text-align: justify;
+}
+h1 {
+    font-size: 42px;
+}
